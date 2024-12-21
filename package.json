@@ -1,0 +1,9 @@
+{
+      "name": "next-app",
+      "scripts": {
+        "dev": "next"
+      },
+      "dependencies": {
+        "next": "13.0.6"
+      }
+    }
